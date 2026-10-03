@@ -1,0 +1,15 @@
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.exe
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.deps.json
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.runtimeconfig.json
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.dll
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.pdb
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.AssemblyInfoInputs.cache
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.AssemblyInfo.cs
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.csproj.CoreCompileInputs.cache
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.dll
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\refint\uppgift 3.3.dll
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.pdb
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.genruntimeconfig.cache
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\ref\uppgift 3.3.dll
+C:\Users\hamo09001\Documents\GitHub\Inlämningsuppgifter switch och if\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift .AD1C496B.Up2Date
